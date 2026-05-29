@@ -1,7 +1,7 @@
-**RTAS 2026: Responsible and Trustworthy Agentic Systems**
+**TAS 2026: Trustworthy Agentic Systems**
 
 A symposium in the AAAI 2026 Fall Symposium Series.
-Web URL: https://rtas2026.github.io/
+Web URL: https://tas2026.github.io/
 Dates: November 5–7, 2026, Westin Arlington, Arlington, Virginia, USA
 
 This site is built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme.
