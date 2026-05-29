@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "RTAS 2026"
+title: "TAS 2026"
 permalink: /
 nav_order: 1
 ---
@@ -13,7 +13,7 @@ nav_order: 1
     style="width:120px; height:auto;"
   />
   <h1 style="margin:0; font-size:2.2rem; line-height:1.2;">
-    Responsible and Trustworthy Agentic Systems (RTAS 2026)
+    Trustworthy Agentic Systems (TAS 2026)
   </h1>
 </div>
 
@@ -26,17 +26,17 @@ nav_order: 1
 
 ## Welcome
 
-Welcome to **RTAS 2026: Responsible and Trustworthy Agentic Systems**, a symposium in the **AAAI 2026 Fall Symposium Series**.
+Welcome to **TAS 2026: Trustworthy Agentic Systems**, a symposium in the **AAAI 2026 Fall Symposium Series**.
 
-Agentic systems, in which large language models (LLMs) plan, invoke tools, retrieve external knowledge, and act autonomously over multiple steps, are moving from research prototypes into consequential, real-world decision making. Our ability to guarantee that these systems are fair, private, safe, and accountable has not kept pace. RTAS convenes the artificial intelligence community to treat responsibility as a first-class design objective that is engineered, measured, and governed across the full lifecycle of an agent. The symposium is organized around two complementary themes:
+Agentic systems, in which large language models (LLMs) plan, invoke tools, retrieve external knowledge, and act autonomously over multiple steps, are moving from research prototypes into consequential, real-world decision making. Our ability to guarantee that these systems are fair, private, safe, and accountable has not kept pace. TAS convenes the artificial intelligence community to treat responsibility as a first-class design objective that is engineered, measured, and governed across the full lifecycle of an agent. The symposium is organized around two complementary themes:
 
 1. **Trustworthy agentic systems by design** : fairness, privacy-preserving and federated learning, safety and alignment, robustness, explainability, plan and autonomy specification, reliable and distributed execution, and rigorous evaluation of multi-step agent behavior.
 2. **Accountable governance and societal impact** : auditing and assurance, standards alignment (NIST AI RMF, ISO/IEC, EU AI Act), human oversight and accountability, societal impact, and open shared infrastructure.
 
-The two and one-half day format prioritizes discussion and collaborative production over passive presentation. Rather than a sequence of talks, RTAS is built around shared target problems, working groups, and breakout sessions that produce concrete artifacts: open benchmarks, evaluation protocols, red-teaming playbooks, and a community research roadmap.
+The two and one-half day format prioritizes discussion and collaborative production over passive presentation. Rather than a sequence of talks, TAS is built around shared target problems, working groups, and breakout sessions that produce concrete artifacts: open benchmarks, evaluation protocols, red-teaming playbooks, and a community research roadmap.
 
 <p align="center">
-  <a href="https://rtas2026.github.io/">RTAS 2026</a> &bull; Part of the
+  <a href="https://tas2026.github.io/">TAS 2026</a> &bull; Part of the
   <a href="https://aaai.org/conference/fall-symposia/">AAAI Fall Symposium Series</a>
 </p>
 
@@ -96,7 +96,7 @@ Full bios are available on the [Organization page]({{ '/organization/' | relativ
 
 ## Participation
 
-RTAS welcomes full papers, position statements, experience reports, tool and dataset demonstrations, and challenge proposals, as well as statements of interest from prospective attendees. Speculative work and work in progress are encouraged alongside completed results.
+TAS welcomes full papers, position statements, experience reports, tool and dataset demonstrations, and challenge proposals, as well as statements of interest from prospective attendees. Speculative work and work in progress are encouraged alongside completed results.
 
 ### Submission Types
 
@@ -117,6 +117,6 @@ Full details are available on the [Call for Participation page]({{ '/call-for-pa
 
 ### Preliminary Schedule
 
-RTAS will feature invited keynotes, paper and spotlight sessions, target-problem working groups, an open-format panel, and a tool and dataset showcase, spread across a two and one-half day program.
+TAS will feature invited keynotes, paper and spotlight sessions, target-problem working groups, an open-format panel, and a tool and dataset showcase, spread across a two and one-half day program.
 
 See the full schedule on the [Schedule page]({{ '/schedule/' | relative_url }}).
