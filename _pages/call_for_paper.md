@@ -9,7 +9,7 @@ nav_title: "CFP"
 
 # Call for Participation
 
-**RTAS 2026: Responsible and Trustworthy Agentic Systems**, a symposium in the AAAI 2026 Fall Symposium Series, invites contributions on making the trustworthiness of agentic systems a property we can specify, verify, and defend. We emphasize actionable techniques, evidence (tests, metrics, logs, proofs), open artifacts, and alignment with standards (e.g., NIST AI RMF, ISO/IEC, EU AI Act). The symposium deliberately bridges theory and practice and welcomes speculative work and work in progress alongside completed results.
+**TAS 2026: Trustworthy Agentic Systems**, a symposium in the AAAI 2026 Fall Symposium Series, invites contributions on making the trustworthiness of agentic systems a property we can specify, verify, and defend. We emphasize actionable techniques, evidence (tests, metrics, logs, proofs), open artifacts, and alignment with standards (e.g., NIST AI RMF, ISO/IEC, EU AI Act). The symposium deliberately bridges theory and practice and welcomes speculative work and work in progress alongside completed results.
 
 ---
 
@@ -70,6 +70,7 @@ We welcome submissions addressing either or both complementary themes, plus cros
 ---
 
 ### Contact
-
+**Anindya Bijoy Das** (University of Akron), adas@uakron.edu
 **Sumon Biswas** (Case Western Reserve University), sumon@case.edu
+**Shahnewaz Karim Sakib** (University of Tennessee at Chattanooga), shahnewazkarim-sakib@utc.edu
 **Shibbir Ahmed** (Texas State University), shibbir@txstate.edu
